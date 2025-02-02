@@ -1,2 +1,3 @@
 # newproject
-this is first project in git
+this is first repository
+
